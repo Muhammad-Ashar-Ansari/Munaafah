@@ -1,0 +1,13 @@
+/* Custom styles for the login and signup forms */
+
+body {
+    background-color: #f4f4f9;
+}
+
+.card {
+    border-radius: 10px;
+}
+
+h2 {
+    color: #4CAF50;
+}
